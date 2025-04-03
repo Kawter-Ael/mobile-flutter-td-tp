@@ -1,7 +1,7 @@
 # ShowApp - Application Mobile Flutter
 
 ## Développeur
-*KAWTER ALOUANE 
+KAWTER ALOUANE 
 
 ## Vue d'ensemble du projet
 Ce référentiel contient une application mobile complète développée avec Flutter qui interagit avec un backend Node.js via des API RESTful. L'application permet aux utilisateurs de parcourir, créer, mettre à jour et supprimer du contenu multimédia (films, séries et anime) avec une interface intuitive et réactive, implémentant ainsi une fonctionnalité CRUD complète.
