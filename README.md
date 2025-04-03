@@ -1,6 +1,6 @@
 # ShowApp - Application Mobile Flutter
 
-## Développeur
+## Développeuse
 KAWTER ALOUANE 
 
 ## Vue d'ensemble du projet
@@ -69,5 +69,5 @@ Ce référentiel contient une application mobile complète développée avec Flu
 
 1. Cloner le référentiel :
 ```bash
-git clone https://github.com/kawter-alouane/showapp-flutter.git
-cd showapp-flutter
+git clone https://github.com/kawter-alouane/mobile-flutter-td-tp.git
+cd mobile-flutter-td-tp
